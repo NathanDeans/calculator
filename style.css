@@ -42,11 +42,14 @@
 .content {
     display: flex;
     flex-direction: column;
-    border: solid 5px whitesmoke;
+    border: solid 5px black;
     justify-content: center;
     align-items: center;
+    border-radius: 5px;
 }
 
 h1 {
     font-size: 52px;
+    color: white;
+    border: lightblue;
 }
